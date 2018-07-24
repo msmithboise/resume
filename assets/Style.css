@@ -6,3 +6,12 @@ a {
     text-decoration: none;
     color:black;
 }
+
+#about {
+    color: blueviolet;
+    background-color: yellow;
+    }
+
+    li: hover{
+        font-weight: 700;
+    }
